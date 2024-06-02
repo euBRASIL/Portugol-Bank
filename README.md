@@ -1,4 +1,4 @@
-# BancoETE - Sistema de Conta Bancária 
+# Portugol-Bank - Sistema de Conta Bancária 
 Este é um programa simples escrito em Portugol que simula um sistema de contas bancárias. O programa permite criar e gerenciar conta corrente e conta poupança, realizando operações como saques, depósitos, aplicação na poupança e resgate
 
 # Fucionalidades do Banco
